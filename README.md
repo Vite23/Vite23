@@ -12,6 +12,7 @@ I am a Computer Science and Engineering student with a solid foundation in Data 
 <img src="img/Tailwind.png" alt="TAILWIND Logo" width="60">
  <img src="img/css.jpeg" alt="CSS Logo" width="60"> 
  <img src="img/html.png" alt="HTML Logo" width="60">
+  <img src="img/sql.png" alt= "SQL" width="46"> 
  <img src="img/c++.png" alt= "C++Logo" width="60"> 
 
   
