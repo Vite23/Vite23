@@ -19,10 +19,10 @@ I am a Computer Science and Engineering student with a solid foundation in Data 
 ##### ✉️ How can you contact me?
 
 <a href="https://www.linkedin.com/in/vidhangite/">
-  <img src="img/Linkedin.jpeg" alt="Linkedin" width="60" >
+  <img src="img/Linkedin.jpeg" alt="Linkedin" width="40" >
 </a>&nbsp;
 <a href="mailto:vidhangite@gmail.com">
-  <img src="img/gmail.jpeg" alt="Email" width="60" >
+  <img src="img/gmail.jpeg" alt="Email" width="40" >
 </a>
 
 
